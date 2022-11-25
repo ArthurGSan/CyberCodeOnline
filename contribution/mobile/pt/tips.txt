@@ -10,12 +10,12 @@ Você pode reparar seu equipamento equipado danificado no [ARMEIRO].
 Seu inventário tem um limite de armazenamento; fique de olho ou você perderá o loot.
 Os escudos se regeneram depois que você derrota um inimigo em uma masmorra.
 Você pode fazer engenharia reversa no [CENTRO DE TRABALHO].
-Equipamentos de qualidade "Lixo" ainda são úteis para obter Tech Scraps e ganhar experiência em IMPRESSÃO.
+Equipamentos de qualidade "Lixo" ainda são úteis para obter Sucata de Tecnologia e ganhar experiência em IMPRESSÃO.
 Nenhum amigo online para ajudar nessa missão de masmorra? Tente compartilhar sua masmorra no chat!
 Crie Pain Away para recuperar a saúde entre as lutas nas masmorras.
 No terminal de chat, digite @ para mencionar outro jogador.
-Dungeons são uma ótima fonte para AI Cores e Hash Processors.
-SCAVENGE para encontrar componentes para criar munição e remédios.
+Dungeons são uma ótima fonte para Núcleos IA e Processadores de Hash.
+VASCULHE para encontrar componentes para criar munição e remédios.
 A impressão sempre resulta em itens no mesmo nível de sua CLASSIFICAÇÃO DE IMPRESSÃO.
 Cuidado com os inimigos descritos como durões, raivosos ou protegidos.
 Chaves secretas são necessárias para acessar estações de nível superior; procure nas masmorras por seus fragmentos!
@@ -29,7 +29,7 @@ Você pode armazenar módulos de atualização em excesso em equipamentos de alt
 Morrer muito? Aumente seu RANK DE IMPRESSÃO para o seu nível de jogador e, em seguida, imprima novos equipamentos!
 Sentindo tonto? Faça uma pausa e pegue um pouco de comida.
 Não se esqueça de se hidratar!
-Confuso com a cache que acabou de cair na sua mão? Vá para a [IMPRESSORA 3D MOLECULAR] e faça alguns equipamentos.
+Confuso com a cache que acabou de cair na sua mão? Vá para a [IMPRESSORA MOLECULAR 3D] e faça alguns equipamentos.
 O cache de equipamentos vem em 6 raridades: Lixo, Comum, Alta Qualidade, Raro, Lendário e Épico.
 Você sabia que pode acessar a versão mobile do jogo do seu computador? Vá para cybercodeonline.com e reduza a janela do navegador!
 Também temos uma versão para desktop deste jogo em cybercodeonline.com!
@@ -37,18 +37,18 @@ Lembre-se do mantra do CCO: Hit, Heal, Hit.
 Aumente o nível de uma habilidade na [ÁREA COMERCIAL] quando tiver tempo de sobra.
 Gostou do jogo? Certifique-se de deixar um comentário na loja de aplicativos iOS ou na Google Play Store!
 Estudos mostram que mobs com a tag "Agile" concedem mais EXP.
-Não nivelando tão rápido quanto você gostaria? Tente mergulhar em masmorras! (Você ganha 2x mais exp)
-Sempre carregue peças médicas e peças de munição em você enquanto estiver em uma masmorra.
+Não sobe de nível tão rápido quanto você gostaria? Tente mergulhar em masmorras! (Você ganha 2x mais exp)
+Sempre carregue peças médicas e peças de munição com você enquanto estiver em uma masmorra.
 Vá em frente. Entregue essa batata ao nosso incrível desenvolvedor Dexter Huang.
 Olhe para esta barra de dicas. Temos algumas dicas incríveis para você.
 É costume ir no sentido horário em masmorras públicas.
 Caches épicos são extremamente raros. Considere-se sortudo se você conseguir um.
-Baixo no BTC? Obtenha alguns criptomineração com processadores de hash no [CENTRO DE TRABALHO] ou venda processadores de hash no [MARKET].
+Baixo no BTC? Obtenha alguns por criptomineração com processadores de hash no [CENTRO DE TRABALHO] ou venda processadores de hash no [MARKET].
 Masmorras de desafio sempre têm um chefe difícil, então não se esqueça de levar seus amigos com você ao se aventurar em uma delas.
 Apoiar o jogo assinando um pacote de doação permite que você tenha uma foto de perfil personalizada no jogo e/ou uma borda de nome colorida no bate-papo.
 Você pode trocar as unidades compradas por buffs globais raros, como aceleradores de tempo AFK, EXP e bônus BTC.
-A habilidade SCAVENGE mais alta permite que você vasculhe em áreas de nível mais alto e obtenha mais itens.
-O equipamento que você obtém da [IMPRESSORA 3D MOLECULAR] é sempre baseado em seu RANK DE IMPRESSÃO e não em seu NÍVEL geral, portanto, mantenha sempre seu RANK DE IMPRESSÃO atualizado.
+A habilidade de COLETA mais alta permite que você vasculhe em áreas de nível mais alto e obtenha mais itens.
+O equipamento que você obtém da [IMPRESSORA MOLECULAR 3D] é sempre baseado em seu RANK DE IMPRESSÃO e não em seu NÍVEL geral, portanto, mantenha sempre seu RANK DE IMPRESSÃO atualizado.
 Para manter o jogo atualizado, é impossível ganhar EXP e saques de inimigos ou masmorras de baixo nível após um certo nível.
 Inimigos com descrições (ou seja, Shielded / Mad / Angry) são mais difíceis, mas dão melhores recompensas!
 Doações e associação não concedem nenhuma vantagem no jogo.
@@ -70,7 +70,7 @@ AFK sem fim? Atualize ou reinicie o aplicativo.
 Tentou atualizar ou reiniciar o aplicativo?
 Sempre verifique os preços de mercado antes de colocar algo à venda!
 Você precisa de muitos Tech Scraps para abrir um contêiner trancado.
-Descarte seus itens não utilizados para obter Tech Scraps; você precisará deles para abrir contêineres trancados.
+Descarte seus itens não utilizados para obter Sucata de Tecnologia; você precisará delas para abrir contêineres trancados.
 Pergunte ao seu vizinho amigável para preços de itens variados!
 É recomendado resgatar recompensas de missões de masmorras e experiências de memória com o bônus de 180% xp. Você ganhará quase o dobro de EXP!
 Após o início do jogo, Pain Aways se tornam praticamente inúteis, então sinta-se à vontade para reciclá-los para ~ 50% de chance de uma peça de tecnologia médica por Pain Away.
@@ -83,7 +83,7 @@ Você pode trocar de equipamento durante uma masmorra.
 Você pode criar itens de cura no meio da masmorra para reabastecer.
 Você pode adicionar amigos neste jogo. Basta clicar no nome de usuário e rolar para baixo até 'adicionar amigo'.
 Cada mod pode adicionar até 5% de bônus de chance crítica.
-Você pode obter uma fonte constante de Ai Cores e Hash Processors derrotando o chefe em uma masmorra de dificuldade de desafio.
+Você pode obter uma fonte constante de Núcleos IA e Processadores de Hash derrotando o chefe em uma masmorra de dificuldade de desafio.
 Os inimigos estão demorando muito para matar? Tente aumentar sua chance crítica e modificador de dano crítico.
 Precisa de algum espaço extra em seu inventário? Equipe equipamentos ou módulos com o modificador "pocket".
 Implorar por saltos de tempo globais geralmente é desaprovado pela comunidade, então, por favor, não faça isso.
@@ -91,10 +91,10 @@ Fazer masmorras de desafio com outros jogadores é a maneira mais rápida de gan
 Se o seu jogo estiver travado ou você não puder se mover em uma masmorra, tente fechar e reabrir o jogo.
 Você pode entrar em masmorras já em andamento para obter missões e itens!
 Complete missões para uma boa quantidade de BTC, EXP e até itens!
-Considere-se sortudo se você conseguir um Epic Cache.
+Considere-se sortudo se você conseguir um Cache Épico.
 O dano crítico em atualizações pode ultrapassar 10%!
-Lembre-se de maximizar seu PRINTING RANK antes de imprimir seu equipamento.
-Encontrou um recipiente fechado? Você pode abri-lo em [TERMINAL], mas precisará de alguns Tech Scrap e BTC.
+Lembre-se de maximizar seu RANK DE IMPRESSÃO antes de imprimir seu equipamento.
+Encontrou um recipiente fechado? Você pode abri-lo em [TERMINAL], mas precisará de algumas Sucatas de Tecnologia e BTC.
 Para criar uma chave para desbloquear a próxima área, você precisa viajar para todas as 3 subáreas e obter a chave em cada sala do chefe da masmorra.
 Estoque cheio? Venda seus itens não essenciais no mercado de jogadores ou para seu comerciante local no chat!
 Se você sente que seu inventário está constantemente cheio, agora pode ser uma boa ideia considerar essa nova atualização de mochila.
@@ -106,7 +106,7 @@ Inimigos fortes causam mais dano do que inimigos normais, então tenha seus iten
 Há um máximo de 4 inimigos em uma sala de masmorra sem chefe.
 Enquanto as masmorras de desafio demoram mais do que as normais e são mais difíceis, o chefe nas masmorras de desafio dá uma quantidade absurda de experiência e saque.
 Caches épicos custam um braço e uma perna. Se você estiver em um nível baixo, tente vendê-los por meio de leilão no chat para aumentar seu saldo em uma quantia significativa!
-Como você não pode enviar BTC diretamente aos jogadores, os AI Cores ou outros itens podem substituir o BTC em negociações diretas com a função de presente. Faça um estoque ao comprar itens diretamente de um comerciante.
+Como você não pode enviar BTC diretamente aos jogadores, os Núcleos IA ou outros itens podem substituir o BTC em negociações diretas com a função de presente. Faça um estoque ao comprar itens diretamente de um comerciante.
 Quer garantir que todos recebam saques em uma masmorra pública? Certifique-se de que todos causem pelo menos 20% do HP máximo do mob como dano.
 Em masmorras públicas, todos os saques estão disponíveis para os jogadores dentro. Não há necessidade de se preocupar em roubar itens!
 Uma área está bloqueada mesmo que você a tenha desbloqueado com uma chave? Você pode estar subestimado.
@@ -117,7 +117,7 @@ Não há aspecto de pagamento para ganhar no CyberCodeOnline. Itens comprados at
 Equipamentos com 100% ou mais de chance de quebrar na calibração precisam da porcentagem reduzida usando um buff na Arasaka Unit Exchange. Isso beneficia não apenas você, mas todos os outros jogadores.
 Quer parar de cometer os mesmos erros de um iniciante? Jogue mais.
 Quer ser mais eficiente nas masmorras depois de fazê-las por algum tempo? Dar um tempo.
-Você pode fabricar mais Tech Scraps no [GANG] via Automatic Recycler.
+Você pode fabricar mais Sucata de Tecnologia na [GANGUE] via REcicladora Automática.
 Se você precisar de BTC, tente vender itens indesejados ao Armeiro. A estatística "Barganha" ajuda com isso.
 Estoque ficando cheio? Perdeu o BTC quando parou? Armazene itens ou BTC no [BANCO DE ARASAKA].
 
@@ -129,7 +129,7 @@ Equipamentos de qualidade "Lixo" são úteis para obter sucatas de tecnologia e 
 Aumente o nível de uma habilidade na [ÁREA COMERCIAL] quando tiver tempo de sobra.
 Estudo mostra que mobs com a tag "Agile" concedem mais exp.
 Não nivelando tão rápido quanto você gostaria? Tente mergulhar em masmorras! (Você ganha 2x mais exp)
-O equipamento que você obtém da [IMPRESSORA MOLECULAR] é sempre baseado no seu nível de impressão e não no seu nível geral, portanto, mantenha sempre o nível de impressão elevado.
+O equipamento que você obtém da [IMPRESSORA MOLECULAR 3D] é sempre baseado no seu nível de impressão e não no seu nível geral, portanto, mantenha sempre o nível de impressão elevado.
 Para manter o jogo atualizado, é impossível ganhar EXP e saques de inimigos ou masmorras de baixo nível após um certo nível.
 Lute contra inimigos e masmorras acima do seu nível para obter mais exp.
 Espere até que alguém use o bônus de 180% de exp para resgatar recompensas de missões de masmorras e experiências de memória para ganhar mais experiência.
